@@ -1,0 +1,9 @@
+INSERT INTO registros (fecha, unidad, tarjeton, lugar, costo, piloto) VALUES
+('2025-03-05', 661, 10663, 'chiquimula', 2768.03, 'jairo'),
+('2025-03-05', 661, 10932, 'coban', 2755.11, 'jairo'),
+('2025-03-05', 83, 10007, 'coban', 2755.11, 'julio'),
+('2025-03-05', 636, 10647, 'chiquimula', 2748.77, 'julio'),
+('2025-03-05', 83, 10008, 'coban/chisec', 2698.53, 'julio'),
+('2025-03-05', 636, 10009, 'coban/chisec', 2698.53, 'cristian'),
+('2025-03-05', 636, 2619, 'autoservicio', 1100.00, 'cristian'),
+('2025-03-05', 661, 10057, 'chiquimula', 2008.85, 'Homer');
